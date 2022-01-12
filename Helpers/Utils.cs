@@ -152,7 +152,7 @@ namespace CoreAPI.Helpers
                 "6" => GameVersion.ORAS,
                 "7" => GameVersion.USUM,
                 "8" => GameVersion.SWSH,
-                "8.5" => GameVersion.BDSP,
+                "8.5" => GameVersion.BD,
                 _ => GameVersion.Any,
             };
         }
